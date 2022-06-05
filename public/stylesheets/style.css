@@ -1,0 +1,28 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  min-height: 100%;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+
+html {
+  height: 100%;
+}
+
+html, body {
+  margin: 0;
+} 
+
+main {
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
